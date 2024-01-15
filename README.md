@@ -6,7 +6,7 @@ https://colab.research.google.com/drive/1aWZLHRDN1vLVl8Q388sqgZrQ64G8XUUJ?usp=sh
 sample data: https://docs.google.com/spreadsheets/d/1I34K3fMPpTH6ZEb13CxP5YVJWHh0OxOcF1cgdWf5C8g/edit?usp=sharing
 
 Task:
-Create a dashboard with graphs that can update in real-time:
+Create a dashboard with graphs that can update in real-time from a google spreadsheet that is lined to a google form.
 
 Part 1: Feeding and nappies plot 
 
