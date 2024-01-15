@@ -19,6 +19,7 @@ For example:
 Part 2: Mapping sleep times per day
 
 For example:
+
 ![image](https://github.com/JulesMarz/baby_tracker/assets/40864686/3669c40a-0f98-4392-839e-afd6068f615d)
 
 
