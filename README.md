@@ -30,3 +30,8 @@ number of dirty nappies, sleeps, sleep duration, etc (I could do this in excel, 
 
 Stretch
 Have fun predicting!
+
+
+
+Stuff I have found
+https://github.com/tyler-england/forecast-bottle
