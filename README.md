@@ -2,6 +2,7 @@
 Tracking baby activity
 
 https://colab.research.google.com/drive/1aWZLHRDN1vLVl8Q388sqgZrQ64G8XUUJ?usp=sharing
+
 sample data: https://docs.google.com/spreadsheets/d/1I34K3fMPpTH6ZEb13CxP5YVJWHh0OxOcF1cgdWf5C8g/edit?usp=sharing
 
 Task:
@@ -18,3 +19,9 @@ for example: ![image](https://github.com/JulesMarz/baby_tracker/assets/40864686/
 
 
 We can calculate the length of time of each of his sleeping times but would like this on a graph for easy visualisation.
+
+Part 3: simple data summarisation
+number of dirty nappies, sleeps, sleep duration, etc (I could do this in excel, but to keep it all in one plcase)
+
+Stretch
+Have fun predicting!
